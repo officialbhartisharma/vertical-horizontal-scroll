@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+th, td {
+  border: 1px solid;
+}
+section.scroll_main_sect {
+    text-align: center;
+    padding: 40px 0;
+}
+.scroll_main_inn table {
+    width: 1500px;
+    margin: 20px auto;
+}
+.overflow_yaxis_wrp {
+	overflow: auto;
+	overflow-x: auto;
+}
+.overflow_xaxis_wrp {
+    overflow: auto;
+    overflow-y: auto;
+}
+ul.content_inn {
+	list-style-position: inside;
+    text-align: left;
+    height: 170px;
+}
+.scroll_main_inn .sec_inn_wrp {
+    margin: 60px 0;
+}
+.scroll_main_inn h1 {
+    margin: 20px 0;
+}
